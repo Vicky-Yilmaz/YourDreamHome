@@ -1,0 +1,38 @@
+#middlecontent {
+	text-align: center;
+	padding-top: 15%;
+}
+
+body {
+	background-image: url(https://images.unsplash.com/photo-1500923005963-5c31c71321d3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=780cb24e60e2d77ad54977efca806b70&auto=format&fit=crop&w=1334&q=80);
+	background-size: cover;
+	
+}
+
+html {
+	height: 100%;
+}
+
+h1{
+	font-family: Galada;
+	color: #2c3e50;
+	font-size: 500%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.1),
+				0px 8px 13px rgba(0,0,0,0.2);
+}
+
+h3{
+	font-family: open sans;
+	color: #2c3e50;
+	font-size: 150%;
+}
+
+.navbar-collapse {
+	color: #2c3e50;
+}
+
+hr{
+	width: 350px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
